@@ -49,4 +49,20 @@
         tools:layout_editor_absoluteX="179dp"
         tools:layout_editor_absoluteY="554dp" />
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="196dp"
+        tools:layout_editor_absoluteY="256dp"
+        tools:src="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="215dp"
+        tools:layout_editor_absoluteY="484dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
